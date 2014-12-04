@@ -1,8 +1,8 @@
 package mjg
 
-import org.springframework.beans.factory.annotation.Autowired
-import org.springframework.test.context.ContextConfiguration
-import org.springframework.transaction.annotation.Transactional
+//import org.springframework.beans.factory.annotation.Autowired
+//import org.springframework.test.context.ContextConfiguration
+//import org.springframework.transaction.annotation.Transactional
 import spock.lang.Specification
 import spock.lang.Unroll
 
