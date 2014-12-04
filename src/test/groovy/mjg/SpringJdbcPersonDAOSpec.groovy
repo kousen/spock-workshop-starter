@@ -19,7 +19,8 @@ class SpringJdbcPersonDAOSpec extends Specification {
 
     def 'there are five accounts in the sample database'() {
         expect:
-        dao.findAll().size() == 5
+        // check the size of findAll is 5
+        true // remove this line when you add your test
     }
 
     @Unroll
